@@ -10,6 +10,7 @@ Dear members of HBG community, the technical team has written the smart contract
 5. The estimated starting time of transfer is: 2021-7-9 23:59:59 to 2021-7-15 23:59:59
 6. The BSC smart contract operation process and start transfer time will be updated synchronously
 
+[Manual](https://github.com/hbg1788/bsc_smartcontract/blob/main/manual_en.md "Manual")
 
 #关于智能合约3.0写入BSC链
 
@@ -22,3 +23,5 @@ Dear members of HBG community, the technical team has written the smart contract
 4. 请尽快学习TP钱包操作和pancakeswap的兑换流程
 5. 预计开始转账时间为：2021-7-9 23:59:59至2021-7-15 23:59:59
 6. 关于bsc智能合约操作流程和开始转账时间会同步更新
+
+[操作说明](https://github.com/hbg1788/bsc_smartcontract/blob/main/manual_cn.md "操作说明")
