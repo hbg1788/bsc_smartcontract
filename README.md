@@ -25,3 +25,18 @@ Dear members of HBG community, the technical team has written the smart contract
 6. 关于bsc智能合约操作流程和开始转账时间会同步更新
 
 [操作说明](https://github.com/hbg1788/bsc_smartcontract/blob/main/manual_cn.md "操作说明")
+
+#关于HBG转BSC链未到账或者转帐地址添加错误等操作流程
+第一、未到账操作流程：
+用原波场转账地址往TDPwL1aMnbzurhJQiGMrXRa33w7EyPyvbG地址转0.001个TRX
+备注里写明：原转账(转入黑洞)哈希值-正确的bsc链钱包地址，严格按此格式填写,中间隔-号，下同
+第二、因地址添加错误或者转帐未添加BSC链钱包地址：
+用原波场转账地址往：TDPwL1aMnbzurhJQiGMrXRa33w7EyPyvbG
+地址转0.001个TRX
+备注里写明：原转账哈希值-未添加/添加错误-正确的BSC链钱包
+第三、因操作失误或者被盗找回流程：
+用原持有1万HBG以上的波场钱包地址往
+TM4idy9tquwBx2zqJKigK7nEmtUgaM8WfB
+地址转0.001个TRX
+备注里写明：具体事件和被盗的原因-正确的bsc链钱包地址
+提示：请在7月15日0时-7月17日0时转账提交，请不要重复提交，社区会尽最大的努力，砥砺前行，争取让信仰和陪伴HBG一路走来的家人们，一个都不能掉队！！！
