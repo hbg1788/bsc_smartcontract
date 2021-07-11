@@ -14,7 +14,7 @@ Dear members of HBG community, the technical team has written the smart contract
 
 #关于智能合约3.0写入BSC链
 
-尊敬的HBG社区的会员，技术团队已将智能合约代码写入BSC链，这是崭新的一页，意味着HBG跨链生态已经搭建完成，BSC链采用posa共识算法，所有用户的资产和交易过程均记录在BSC底层的分布式区块链账本中，无法篡改、透明、公正、公开。链上的数字资产可实现跨链互通，并以低GAS费用高速支付流转。HBG创新社区，自治的挖矿奖励模式，低碳节能环保，更加注重长期共识者参与和价值的体现，因BSC链智能合约审计延迟，预计在7月10日前可提交波场链上HBG、HBGT转入黑洞地址，获取BSC链上资产！ 
+尊敬的HBG社区的会员，社区已将智能合约代码写入BSC链，这是崭新的一页，意味着HBG跨链生态已经搭建完成，BSC链采用posa共识算法，所有用户的资产和交易过程均记录在BSC底层的分布式区块链账本中，无法篡改、透明、公正、公开。链上的数字资产可实现跨链互通，并以低GAS费用高速支付流转。HBG创新社区，自治的挖矿奖励模式，低碳节能环保，更加注重长期共识者参与和价值的体现，因BSC链智能合约审计延迟，预计在7月10日前可提交波场链上HBG、HBGT转入黑洞地址，获取BSC链上资产！ 
 
 操作说明
 1. 使用TP钱包(一定要TokenPocket钱包)将HBG/HBGT转入波场黑洞地址，在转账备注(高级设置->上链数据)中填写BSC链钱包地址，否则资产无法到账BSC链钱包
@@ -27,14 +27,14 @@ Dear members of HBG community, the technical team has written the smart contract
 [操作说明](https://github.com/hbg1788/bsc_smartcontract/blob/main/manual_cn.md "操作说明")
 
 #关于HBG转BSC链未到账或者转帐地址添加错误等操作流程
-第一、未到账操作流程：
+#####第一、未到账操作流程：
 用原波场转账地址往TDPwL1aMnbzurhJQiGMrXRa33w7EyPyvbG地址转0.001个TRX
 备注里写明：原转账(转入黑洞)哈希值-正确的bsc链钱包地址，严格按此格式填写,中间隔-号，下同
-第二、因地址添加错误或者转帐未添加BSC链钱包地址：
+#####第二、因地址添加错误或者转帐未添加BSC链钱包地址：
 用原波场转账地址往：TDPwL1aMnbzurhJQiGMrXRa33w7EyPyvbG
 地址转0.001个TRX
 备注里写明：原转账哈希值-未添加/添加错误-正确的BSC链钱包
-第三、因操作失误或者被盗找回流程：
+#####第三、因操作失误或者被盗找回流程：
 用原持有1万HBG以上的波场钱包地址往
 TM4idy9tquwBx2zqJKigK7nEmtUgaM8WfB
 地址转0.001个TRX
