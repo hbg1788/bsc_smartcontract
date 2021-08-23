@@ -1,3 +1,33 @@
+HBG environmental community foundation established
+
+1. The original intention of HBG environmental community foundation
+HBG environmental community has set up a 1 million HBG fund, adhering to the original heart, bearing in mind the mission, forging ahead, promoting waste classification and enhancing environmental awareness, which is conducive to community preaching and promotion!
+
+2. Mission of HBG environmental community foundation
+HBG environmental community foundation will be used for poverty alleviation, student aid, promotion of garbage sorting activities, emergency rescue donations and other public welfare undertakings. It will go deep into the practical activities conducive to social public welfare and convey the love of every enthusiastic environmental protection person in the community!
+
+3. Management and application of HBG environmental community foundation
+HBG environmental community foundation is jointly managed by community members holding 20000 HBG pledged
+Application method: from the holding address of 20000 HBG community members to the holding address of the foundation: 0x9087521051da7cd16bbd45f5b288d168a1f3802d
+Transfer to 0.0001bnb, note the uplink data and fill in the receiving address of the grant. The number of valid transfer coins must exceed 50, which means that the fund manager agrees to the grant, and the environmental protection fund's coin holding account will automatically transfer to the note address. Each grant is 1000HBG, which can only be applied once a month. we hope the community preachers can participate in the rational use and distribution of funds!
+
+4. Vision of HBG environmental community foundation
+Through the establishment of environmental community foundation, increase the cohesion and confidence of community members in the community, enhance the responsibility and responsibility of community members for social public welfare undertakings, and enhance the consensus of community members to pursue themselves and win in the future!
+------------
+#HBG环保社区基金会成立
+1. HBG环保基金会成立的初心
+HBG环保社区设立100万HBG基金，秉承不忘初心，牢记使命，砥砺前行，推广垃圾分类，增强环保意识，有利于社区布道和推广！
+2. HBG环保基金会成立的使命
+HBG环保基金资金将用于扶贫，助学，推广垃圾分类活动，紧急救援捐款等公益事业，深入有助于社会公益的实践活动中，把社区每一位热心的环保人予以爱心的传递！
+3. HBG环保基金会管理和申请
+HBG环保基金会由持有质押2万HBG的社区会员共同管理
+申请方式：由持有2万HBG社区会员的持币地址往基金会持币地址：0x9087521051Da7CD16BBd45f5B288D168a1F3802d
+转0.0001BNB，备注上链数据填上接收拨款的收币地址，必需有效转账币笔数超过50笔，意味着基金会管理者同意该笔拨款，环保基金持币账户会往备注地址自动进行转账，每一笔拨款为1000HBG，每月只能申请一次，希望社区布道者们共同参与，合理利用和分配资金！
+4. HBG环保基金会的愿景
+通过成立环保社区基金会，增加社区会员对社区的凝聚力和信心，增进社区会员对社会公益事业的责任和担当，增强社区会员追求自我，赢在未来的共识！
+
+------------
+
 #about smart contract 3.0 writing to BSC chain
 
 Dear members of HBG community, the technical team has written the smart contract code into the BSC chain. This is a new page, which means that the cross chain ecosystem of HBG has been built. The BSC chain adopts the POSA consensus algorithm, and all users' assets and transaction processes are recorded in the distributed block chain ledger at the bottom of BSC, which cannot be tampered with, transparent, fair and open. The digital assets on the chain can realize cross chain intercommunication and high-speed payment flow with low gas cost. HbG innovative community, autonomous mining reward mode, low-carbon energy conservation and environmental protection, pay more attention to long-term consensus participation and value embodiment. Due to the delay of BSC chain smart contract audit, it is expected that hbg and hbgt on the tron chain can be submitted to the black hole address before July 10 to obtain the assets on the BSC chain!
